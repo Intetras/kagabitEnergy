@@ -38,5 +38,4 @@ namespace kagabitenergy {
         let power = bolt * amp;
         return power;
     }
-
 }
