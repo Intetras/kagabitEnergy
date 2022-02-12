@@ -24,7 +24,9 @@ const resistanceVal = 1;
  */
 //% weight=50 icon="\uf0e7" color=#008000 block="kagabit-Energy"
 namespace kagabitenergy {
-    // 電力を出力する
+    //% group="基本"
+    //% blockId="outputPower"
+    //% block="電力"
     export function outputPower():number{
         return 0;
     }
